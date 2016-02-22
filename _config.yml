@@ -1,7 +1,7 @@
 name: Photograpy
 favicon: null
-layout_spectrum: 0.23036420345306396
-typography_spectrum: 0.46114810067228973
+layout_spectrum: 0
+typography_spectrum: 0.49248
 cta:
   domain: null
   bucket: null
