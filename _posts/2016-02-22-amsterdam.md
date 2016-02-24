@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: August 2014
-datePublished: '2016-02-22T17:28:47.521Z'
-dateModified: '2016-02-22T17:28:46.682Z'
+datePublished: '2016-02-24T15:02:40.011Z'
+dateModified: '2016-02-24T14:56:13.548Z'
 title: Amsterdam
 author: []
 sourcePath: _posts/2016-02-22-amsterdam.md
@@ -23,11 +23,7 @@ _type: Article
 
 ---
 Day 1: Spent most of the day wandering the back alleys, canals, and old streets admiring the immense beauty of this amazing city.
-![Love finding stuff like this.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/997a95c7dedc2067d59a5eb04531c1f1843c7af5.jpg)
+![Love finding stuff like this.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e00551de5df9c3665647a32f776f6c57fb6a79d.jpg)
 
 Love all of the random street art you come across.  A very cool contrast against the old Architecture.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32ce60ae46cb86bc99bbcfba8287c187855548ef.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3f38e7fe935bc6825e2aaeca3f0f8c54e8d9c32.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5246190e-bc42-4470-a92d-d4e0b3296236.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a87ac9c4-2a04-49c8-958d-7a453b7554c7.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa662eb0-a2f5-4d4c-a495-40de41526e1e.jpg)
